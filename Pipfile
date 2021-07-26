@@ -1,0 +1,38 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+backoff = "*"
+feedparser = "*"
+pytz = "*"
+DateTime = "*"
+PyYAML = "*"
+"zope.interface" = "*"
+beautifulsoup4 = "*"
+gitpython = "*"
+google-api-python-client = "*"
+google-auth-oauthlib = "*"
+pylog = "*"
+chromedriver-binary = "*"
+selenium = "*"
+pytest = "*"
+pytest-cov = "*"
+oauth2client = "*"
+google-auth = "*"
+webdriver-manager = "*"
+pipenv-to-requirements = "*"
+pyspellchecker = "*"
+pandas = "*"
+
+[dev-packages]
+pylint = "*"
+black = "*"
+
+[pipenv]
+allow_prereleases = true
+
+[requires]
+python_version = "*"
