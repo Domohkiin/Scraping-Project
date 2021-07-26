@@ -1,3 +1,2 @@
 # Scraping-Project
-
-# Created to populate repo
+Created to populate repo
